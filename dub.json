@@ -1,0 +1,9 @@
+{
+	"name": "face",
+	"authors": [
+		"Ryan Pratt"
+	],
+	"description": "An application that uses irl facial tracking to control an LED matrix face",
+	"copyright": "Copyright © 2020, Ryan Pratt",
+	"license": "MIT"
+}
