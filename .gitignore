@@ -20,6 +20,7 @@ face
 docs.json
 __dummy.html
 docs/
+dub_platform_probe_*.s
 
 # Code coverage
 *.lst
